@@ -73,11 +73,17 @@ The **ELK SIEM** solution is hosted on **Elastic Cloud**, integrating:
 ### **Malicious vs. Benign IPs**
 ![Malicious IPs](assets/malicious_ips_dashboard.png)
 
-### **Network Traffic by Protocols**
-![Protocol Analysis](assets/protocol_analysis.png)
+### **Traffic Incoming from Different IPs**
+![Traffic Incoming from Different IPs](assets/traffic_incoming_ips.png)
 
-### **Port Activity Analysis**
-![Port Analysis](assets/port_analysis.png)
+### **Malicious vs. Benign Connection Success**
+![Malicious Connections](assets/malicious_connections.png)
+
+### **Ports Responsible for Malicious Connections**
+![Ports Malicious Activity](assets/ports_malicious_activity.png)
+
+### **Targeted Ports & Protocols**
+![Targeted Ports & Protocols](assets/targeted_ports_protocols.png)
 
 
 ## Future Enhancements & Recommendations
