@@ -70,13 +70,13 @@ The **ELK SIEM** solution is hosted on **Elastic Cloud**, integrating:
 
 ## Sample Dashboards
 
-### **📊 Malicious vs. Benign IPs**
+### **Malicious vs. Benign IPs**
 ![Malicious IPs](assets/malicious_ips_dashboard.png)
 
-### **📊 Network Traffic by Protocols**
+### **Network Traffic by Protocols**
 ![Protocol Analysis](assets/protocol_analysis.png)
 
-### **📊 Port Activity Analysis**
+### **Port Activity Analysis**
 ![Port Analysis](assets/port_analysis.png)
 
 
@@ -110,18 +110,18 @@ git clone https://github.com/yourusername/ELK-SIEM-Security.git
 cd ELK-SIEM-Security
 ```
 ### **3️⃣ Upload Log Files to Kibana**
-Navigate to Machine Learning > File Data Visualizer in Kibana
-Upload the security log files in CSV/JSON format
-Verify index mapping and adjust if needed
+- **Navigate to Machine Learning > File Data Visualizer in Kibana**
+- **Upload the security log files in CSV/JSON format**
+- **Verify index mapping and adjust if needed**
 
 ### **4️⃣ Configure Dashboards**
-Open Kibana
-Navigate to Dashboards
-Import the provided dashboard.json file
+- **Open Kibana**
+- **Navigate to Dashboards**
+- **Import the provided dashboard.json file**
 
 ### **5️⃣ Analyze Security Insights**
-Use Kibana’s visualization tools to monitor threats
-Identify malicious connections, vulnerable ports, and attack patterns
+- **Use Kibana’s visualization tools to monitor threats**
+- **Identify malicious connections, vulnerable ports, and attack patterns**
 
 
 
